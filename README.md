@@ -1,5 +1,5 @@
-## NAME:KAVIYA SNEKA M
-## REGISTER NUMBER:212223040091
+## NAME:KAMALESH S
+## REGISTER NUMBER:212223040083
 
 # Correlation and regression for data analysis
 # Aim : 
